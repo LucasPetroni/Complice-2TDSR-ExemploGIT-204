@@ -1,4 +1,6 @@
 
+//O PALMEIRAS NAO TEM MUNDIAL
+
 public class Produto {
 
 	private double peso;
